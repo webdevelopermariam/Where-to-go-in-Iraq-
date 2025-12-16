@@ -1,0 +1,86 @@
+
+2025-12-06 16:02:20,946 - INFO - Transfer completed: 21 total records
+2025-12-06 17:54:35,465 - INFO - Transfer completed: 21 total records
+2025-12-06 17:56:41,669 - INFO - Transfer completed: 21 total records
+2025-12-06 17:59:26,487 - INFO - Transfer completed: 21 total records
+2025-12-11 14:25:00,224 - INFO - Transfer completed: 24 total records
+2025-12-11 18:43:33,407 - ERROR - Error transferring cafes: '<' not supported between instances of 'NoneType' and 'int'
+2025-12-11 18:43:34,283 - ERROR - Error transferring holy places: 'Type' is not in list
+2025-12-11 18:43:35,223 - INFO - Transfer completed: 0 total records
+2025-12-11 18:47:04,357 - ERROR - Error transferring cafes: '<' not supported between instances of 'NoneType' and 'int'
+2025-12-11 18:47:05,130 - ERROR - Error transferring holy places: 'Type' is not in list
+2025-12-11 18:47:05,814 - INFO - Transfer completed: 0 total records
+2025-12-11 18:47:24,200 - ERROR - Error transferring cafes: '<' not supported between instances of 'NoneType' and 'int'
+2025-12-11 18:47:24,941 - ERROR - Error transferring holy places: 'Type' is not in list
+2025-12-11 18:47:25,665 - INFO - Transfer completed: 0 total records
+2025-12-11 18:54:34,676 - ERROR - Error transferring cafes: '<' not supported between instances of 'NoneType' and 'int'
+2025-12-11 18:54:36,554 - INFO - Transfer completed: 0 total records
+2025-12-11 20:43:22,652 - ERROR - Error transferring archaeological sites: 1054 (42S22): Unknown column 'category' in 'field list'
+2025-12-11 20:43:22,704 - INFO - Transfer completed: 22 total records
+2025-12-11 21:40:35,076 - INFO - Transfer completed: 0 total records
+2025-12-12 01:49:39,438 - INFO - Transfer completed: 0 total records
+2025-12-12 01:54:59,071 - INFO - Transfer completed: 0 total records
+2025-12-12 01:58:14,870 - ERROR - Error transferring archaeological sites: 1054 (42S22): Unknown column 'category' in 'field list'
+2025-12-12 01:58:14,926 - INFO - Transfer completed: 0 total records
+2025-12-12 02:06:01,241 - INFO - Transfer completed: 0 total records
+2025-12-12 02:10:26,206 - INFO - Transfer completed: 0 total records
+2025-12-12 02:14:20,803 - ERROR - Error transferring cafes: Not enough parameters for the SQL statement
+2025-12-12 02:14:21,621 - ERROR - Error transferring holy places: Not enough parameters for the SQL statement
+2025-12-12 02:14:23,263 - INFO - Transfer completed: 37 total records
+2025-12-12 03:13:11,928 - ERROR - Error transferring hotels: 1054 (42S22): Unknown column 'price' in 'field list'
+2025-12-12 03:13:13,542 - ERROR - Error transferring cafes: Not enough parameters for the SQL statement
+2025-12-12 03:13:15,198 - ERROR - Error transferring holy places: Not enough parameters for the SQL statement
+2025-12-12 03:13:16,881 - INFO - Transfer completed: 0 total records
+2025-12-12 03:14:20,658 - ERROR - Error transferring cafes: Not enough parameters for the SQL statement
+2025-12-12 03:14:21,446 - ERROR - Error transferring holy places: Not enough parameters for the SQL statement
+2025-12-12 03:14:23,174 - INFO - Transfer completed: 37 total records
+2025-12-12 03:15:31,823 - ERROR - Error transferring cafes: '<' not supported between instances of 'NoneType' and 'int'
+2025-12-12 03:15:33,052 - ERROR - Error transferring holy places: 'Type' is not in list
+2025-12-12 03:15:34,283 - INFO - Transfer completed: 0 total records
+2025-12-12 03:16:03,775 - ERROR - Error transferring cafes: '<' not supported between instances of 'NoneType' and 'int'
+2025-12-12 03:16:05,618 - ERROR - Error transferring holy places: 'Type' is not in list
+2025-12-12 03:16:07,055 - INFO - Transfer completed: 0 total records
+2025-12-12 03:22:10,178 - ERROR - Error transferring cafes: 1054 (42S22): Unknown column 'type' in 'field list'
+2025-12-12 03:22:10,997 - ERROR - Error transferring holy places: 1054 (42S22): Unknown column 'type' in 'field list'
+2025-12-12 03:22:12,192 - ERROR - Error transferring archaeological sites: 1054 (42S22): Unknown column 'type' in 'field list'
+2025-12-12 03:22:12,195 - INFO - Transfer completed: 0 total records
+2025-12-12 03:24:42,139 - ERROR - Error transferring cafes: 1054 (42S22): Unknown column 'location_id' in 'field list'
+2025-12-12 03:25:03,051 - ERROR - Error transferring archaeological sites: 1054 (42S22): Unknown column 'category' in 'field list'
+2025-12-12 03:25:03,053 - INFO - Transfer completed: 30 total records
+2025-12-12 03:34:30,851 - ERROR - Error transferring hotels: 1366 (HY000): Incorrect integer value: 'HTL-BG-01' for column 'location_id' at row 1
+2025-12-12 03:34:32,964 - INFO - Transfer completed: 0 total records
+2025-12-12 03:38:12,200 - INFO - Transfer completed: 37 total records
+2025-12-12 03:40:42,010 - INFO - Transfer completed: 0 total records
+2025-12-12 03:51:42,484 - ERROR - Error transferring cafes: Not enough parameters for the SQL statement
+2025-12-12 03:51:44,737 - ERROR - Error transferring archaeological sites: 'Location ID' is not in list
+2025-12-12 03:51:44,739 - INFO - Transfer completed: 0 total records
+2025-12-12 03:54:24,904 - ERROR - Error transferring holy places: 'Type' is not in list
+2025-12-12 03:54:26,734 - INFO - Transfer completed: 0 total records
+2025-12-12 03:55:31,649 - INFO - Transfer completed: 0 total records
+2025-12-12 04:01:37,889 - INFO - Transfer completed: 0 total records
+2025-12-12 12:01:02,673 - INFO - Transfer completed: 35 total records
+2025-12-12 12:06:14,468 - ERROR - Error transferring holy places: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 12:06:15,594 - ERROR - Error transferring archaeological sites: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 12:06:15,604 - INFO - Transfer completed: 59 total records
+2025-12-12 12:12:40,616 - ERROR - Error transferring holy places: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 12:12:41,742 - ERROR - Error transferring archaeological sites: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 12:12:41,751 - INFO - Transfer completed: 59 total records
+2025-12-12 14:10:56,606 - INFO - Transfer completed: 0 total records
+2025-12-12 14:12:26,841 - ERROR - Error transferring holy places: 1054 (42S22): Unknown column 'price_range' in 'field list'
+2025-12-12 14:12:30,706 - ERROR - Error transferring archaeological sites: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 14:12:30,718 - INFO - Transfer completed: 59 total records
+2025-12-12 15:21:41,689 - INFO - Transfer completed: 0 total records
+2025-12-12 16:44:12,278 - ERROR - Error transferring holy places: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 16:44:13,404 - ERROR - Error transferring archaeological sites: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 16:44:13,412 - INFO - Transfer completed: 59 total records
+2025-12-12 16:47:21,411 - INFO - Transfer completed: 0 total records
+2025-12-12 16:55:43,987 - INFO - Transfer completed: 0 total records
+2025-12-12 19:43:02,323 - INFO - Transfer completed: 0 total records
+2025-12-12 19:51:29,763 - ERROR - Error transferring holy places: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 19:51:31,049 - ERROR - Error transferring archaeological sites: APIError: [429]: Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:380358051748'.
+2025-12-12 19:51:31,052 - INFO - Transfer completed: 59 total records
+2025-12-12 19:57:31,407 - ERROR - Error transferring hotels: 'charmap' codec can't encode character '\u2713' in position 3: character maps to <undefined>
+2025-12-12 19:57:34,914 - ERROR - Error transferring cafes: 'charmap' codec can't encode character '\u2713' in position 3: character maps to <undefined>
+2025-12-12 19:57:38,418 - ERROR - Error transferring holy places: 'charmap' codec can't encode character '\u2713' in position 3: character maps to <undefined>
+2025-12-12 19:57:41,768 - ERROR - Error transferring archaeological sites: 'charmap' codec can't encode character '\u2713' in position 3: character maps to <undefined>
+2025-12-12 19:57:41,769 - INFO - Transfer completed: 0 total records
