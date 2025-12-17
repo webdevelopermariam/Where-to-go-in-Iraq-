@@ -6,21 +6,21 @@ import sys
 import time
 
 logging.basicConfig(
-    filename='data_transfer.log',
+    filename='.log',
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-HOST = "localhost"
-DATABASE = "info"
-USER = "root"
-PASSWORD = "Maryam-200511"
+HOST = ""
+DATABASE = ""
+USER = ""
+PASSWORD = ""
 
 SCOPES = [
     'https://www.googleapis.com/auth/spreadsheets',
     'https://www.googleapis.com/auth/drive'
 ]
-Sheet_ID = "1xuXvYOL4WT0uXL82xmpOKPeVh41Ic3E6XnsqNdLwNIw"
+Sheet_ID = ""
 
 FORCE_TRANSFER = '--force' in sys.argv or '-f' in sys.argv
 
@@ -42,7 +42,7 @@ def connect_to_db():
 def connect_to_sheet():
     try:
         creds = Credentials.from_service_account_file(
-            "ai.json",
+            ".json",
             scopes=SCOPES
         )
         client = gspread.authorize(creds)
@@ -521,4 +521,5 @@ if __name__ == "__main__":
     print("="*70 + "\n")
     
     print("Starting transfer process...")
+
     transfer_all_data()
