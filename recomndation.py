@@ -9,10 +9,10 @@ import io
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-HOST = "localhost"
-DATABASE = "info"
-USER = "root"
-PASSWORD = "Maryam-200511"
+HOST = ""
+DATABASE = ""
+USER = ""
+PASSWORD = ""
 
 def connect_to_db():
     """Connect to MySQL database"""
@@ -181,4 +181,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n✗ Error: {e}")
         import traceback
+
         traceback.print_exc()
